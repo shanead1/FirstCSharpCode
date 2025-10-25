@@ -1,0 +1,15 @@
+/workspaces/FirstCSharpCode/MyProject/bin/Debug/net8.0/MyProject
+/workspaces/FirstCSharpCode/MyProject/bin/Debug/net8.0/MyProject.deps.json
+/workspaces/FirstCSharpCode/MyProject/bin/Debug/net8.0/MyProject.runtimeconfig.json
+/workspaces/FirstCSharpCode/MyProject/bin/Debug/net8.0/MyProject.dll
+/workspaces/FirstCSharpCode/MyProject/bin/Debug/net8.0/MyProject.pdb
+/workspaces/FirstCSharpCode/MyProject/obj/Debug/net8.0/MyProject.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/FirstCSharpCode/MyProject/obj/Debug/net8.0/MyProject.AssemblyInfoInputs.cache
+/workspaces/FirstCSharpCode/MyProject/obj/Debug/net8.0/MyProject.AssemblyInfo.cs
+/workspaces/FirstCSharpCode/MyProject/obj/Debug/net8.0/MyProject.csproj.CoreCompileInputs.cache
+/workspaces/FirstCSharpCode/MyProject/obj/Debug/net8.0/MyProject.sourcelink.json
+/workspaces/FirstCSharpCode/MyProject/obj/Debug/net8.0/MyProject.dll
+/workspaces/FirstCSharpCode/MyProject/obj/Debug/net8.0/refint/MyProject.dll
+/workspaces/FirstCSharpCode/MyProject/obj/Debug/net8.0/MyProject.pdb
+/workspaces/FirstCSharpCode/MyProject/obj/Debug/net8.0/MyProject.genruntimeconfig.cache
+/workspaces/FirstCSharpCode/MyProject/obj/Debug/net8.0/ref/MyProject.dll
